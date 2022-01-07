@@ -1,0 +1,19 @@
+﻿  test3.cpp
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(371,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(423,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(425,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(553,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(751,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(801,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(803,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(805,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(812,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(816,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(951,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(952,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(963,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(964,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(1052,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(1114,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\test3\test3.cpp(1113,8): warning C4101: 'c': unreferenced local variable
+  test3.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\test3.exe

@@ -1,0 +1,17 @@
+﻿  BST.cpp
+D:\Files\Test ct22\Test ct\BST\BST.cpp(257,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(259,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(311,6): warning C4101: 'len': unreferenced local variable
+D:\Files\Test ct22\Test ct\BST\BST.cpp(310,8): warning C4101: 'c': unreferenced local variable
+D:\Files\Test ct22\Test ct\BST\BST.cpp(401,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(597,21): warning C4018: '<': signed/unsigned mismatch
+D:\Files\Test ct22\Test ct\BST\BST.cpp(644,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(651,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(655,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(747,6): warning C4101: 'index': unreferenced local variable
+D:\Files\Test ct22\Test ct\BST\BST.cpp(793,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(794,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(800,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(801,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BST\BST.cpp(883,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  BST.vcxproj -> D:\Files\Test ct22\Test ct\Debug\BST.exe

@@ -1,0 +1,17 @@
+﻿  BTree.cpp
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(407,7): warning C4101: 'index': unreferenced local variable
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(472,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(474,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(547,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(743,21): warning C4018: '<': signed/unsigned mismatch
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(790,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(797,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(801,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(934,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(935,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(941,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(942,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(1026,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(1092,6): warning C4101: 'len': unreferenced local variable
+D:\Files\Test ct22\Test ct\BTree\BTree.cpp(1091,8): warning C4101: 'c': unreferenced local variable
+  BTree.vcxproj -> D:\Files\Test ct22\Test ct\Debug\BTree.exe

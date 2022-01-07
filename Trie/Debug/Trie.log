@@ -1,0 +1,18 @@
+﻿  Trie.cpp
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(278,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(280,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(332,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(331,8): warning C4101: 'c': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(419,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(615,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(662,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(669,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(673,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(755,6): warning C4101: 'index': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(801,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(802,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(808,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(809,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Trie\Trie.cpp(890,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Trie.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\Trie.exe

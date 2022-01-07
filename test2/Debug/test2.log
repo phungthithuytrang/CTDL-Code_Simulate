@@ -1,0 +1,17 @@
+﻿  test2.cpp
+D:\Files\Test ct22\Test ct\test2\test2.cpp(390,7): warning C4101: 'index': unreferenced local variable
+D:\Files\Test ct22\Test ct\test2\test2.cpp(455,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(457,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(530,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(726,21): warning C4018: '<': signed/unsigned mismatch
+D:\Files\Test ct22\Test ct\test2\test2.cpp(773,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(780,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(784,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(917,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(918,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(924,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(925,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(1009,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Files\Test ct22\Test ct\test2\test2.cpp(1072,6): warning C4101: 'len': unreferenced local variable
+D:\Files\Test ct22\Test ct\test2\test2.cpp(1071,8): warning C4101: 'c': unreferenced local variable
+  test2.vcxproj -> D:\Files\Test ct22\Test ct\Debug\test2.exe
